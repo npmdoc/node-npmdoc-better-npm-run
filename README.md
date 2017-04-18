@@ -1,9 +1,13 @@
-# api documentation for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-better-npm-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-better-npm-run)
+# npmdoc-better-npm-run
+
+api documentation for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-better-npm-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-better-npm-run)
 #### Better NPM scripts runner
 
-[![NPM](https://nodei.co/npm/better-npm-run.png?downloads=true)](https://www.npmjs.com/package/better-npm-run)
+[![NPM](https://nodei.co/npm/better-npm-run.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/better-npm-run)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-better-npm-run_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +21,7 @@
 
 {
     "author": {
-        "name": "Benjamin Orozco",
-        "email": "benoror@gmail.com"
+        "name": "Benjamin Orozco"
     },
     "betterScripts": {
         "test:command:string": "node ./test/command.js",
@@ -51,12 +54,10 @@
     },
     "contributors": [
         {
-            "name": "Benjamin Orozco",
-            "email": "benoror@gmail.com"
+            "name": "Benjamin Orozco"
         },
         {
-            "name": "Kent C. Dodds",
-            "email": "kent@doddsfamily.us"
+            "name": "Kent C. Dodds"
         }
     ],
     "dependencies": {
@@ -77,21 +78,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "benoror",
-            "email": "benoror@gmail.com"
+            "name": "benoror"
         },
         {
-            "name": "galenandrew",
-            "email": "galen.turner@me.com"
+            "name": "galenandrew"
         },
         {
-            "name": "gorangajic",
-            "email": "fero.null@gmail.com"
+            "name": "gorangajic"
         }
     ],
     "name": "better-npm-run",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/benoror/better-npm-run.git"
@@ -108,16 +105,6 @@
     "version": "0.0.15"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module better-npm-run](#apidoc.module.better-npm-run)
-
-
-
-# <a name="apidoc.module.better-npm-run"></a>[module better-npm-run](#apidoc.module.better-npm-run)
 
 
 
