@@ -1,6 +1,7 @@
 # npmdoc-better-npm-run
 
-api documentation for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-better-npm-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-better-npm-run)
+#### basic api documentation for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-better-npm-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-better-npm-run)
+
 #### Better NPM scripts runner
 
 [![NPM](https://nodei.co/npm/better-npm-run.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/better-npm-run)
